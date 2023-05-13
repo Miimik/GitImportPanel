@@ -22,7 +22,7 @@
         },
         {
             "Order": 0,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "UMotion_Pro",
             "Url": "https://cdn.discordapp.com/attachments/1097568801723273256/1097569793273512108/UMotion_Pro_-_Animation_Editor_v1.28p03.unitypackage",
@@ -32,7 +32,7 @@
         },
         {
             "Order": 1,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Esska AV3 Obfuscator",
             "Url": "https://github.com/Ess-Ka/EsskaAV3Obfuscator/releases/download/v2.0.2/com.esska.av3obfuscator-2.0.2.zip",
@@ -42,7 +42,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "lilToon",
             "Url": "https://github.com/lilxyzw/lilToon/releases/download/1.3.6/lilToon_1.3.6.unitypackage",
@@ -52,7 +52,7 @@
         },           
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Lyuma Av3 Emulator",
             "Url": "https://github.com/lyuma/Av3Emulator/releases/download/v3.1.3/lyuma.av3emulator-3.1.3.unitypackage",
@@ -62,7 +62,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Gesture Manager",
             "Url": "https://github.com/BlackStartx/VRC-Gesture-Manager/releases/download/v3.8.3/GestureManager3.8.3.unitypackage",
@@ -72,7 +72,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Avatars Manager",
             "Url": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.20/Avatars_3.0_Manager_2.0.20.unitypackage",
@@ -82,7 +82,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Expressions Menu Hierarchy Editor",
             "Url": "https://github.com/hai-vr/av3-expressions-menu-hierarchy-editor/releases/download/V1.0.0/ExpressionsMenuHierarchyEditor_V1.0.0.unitypackage",
@@ -92,7 +92,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Dynamic Bone",
             "Url": "https://cdn.discordapp.com/attachments/853200703345786880/964274484695683072/Dynamic_Bone_v1.3.2.unitypackage",
@@ -102,7 +102,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Pumkins Avatar Tools",
             "Url": "https://github.com/rurre/PumkinsAvatarTools/releases/download/1.3.7/pumkin.pumkinsavatartools-1.3.7.unitypackage",
@@ -112,7 +112,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "VRC Quest Tools",
             "Url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.10.1/VRCQuestTools-v1.10.1.unitypackage",
@@ -122,7 +122,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Rainbow Folders",
             "Url": "https://cdn.discordapp.com/attachments/853200703345786880/978728881257332736/Rainbow_Folders_2_v2.3.1.unitypackage",
@@ -132,7 +132,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "DB IK2",
             "Url": "https://cdn.discordapp.com/attachments/853200703345786880/875882232252882984/DB__IK2.0.unitypackage",
@@ -142,7 +142,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Khodrins Dynamic Bone Tools",
             "Url": "https://cdn.discordapp.com/attachments/853200703345786880/978028428806742037/KhodrinsDynamicBoneTools_2.2.unitypackage",
@@ -152,7 +152,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Doppelganger Patreon Dope Toon",
             "Url": "https://cdn.discordapp.com/attachments/853204392064581633/1000151825384738826/Doppelganger_Patreon_Dope_Toon_1.4.3.unitypackage",
@@ -162,7 +162,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "poi pro",
             "Url": "https://cdn.discordapp.com/attachments/853204392064581633/1021330593297997844/poi_pro_7_3_50_and_8_1_142.unitypackage",
@@ -172,7 +172,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Poi Toon",
             "Url": "https://github.com/poiyomi/PoiyomiToonShader/releases/download/V8.0.426/Poi.Toon.7.3.50.and.8.0.426.unitypackage",
@@ -182,7 +182,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "arktoon shaders",
             "Url": "https://github.com/absolute-disappointment/arktoon/raw/main/arktoon-shaders-1.0.2.6.unitypackage",
@@ -192,7 +192,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Action Menu",
             "Url": "https://cdn.discordapp.com/attachments/855436418423586846/968217819089096744/Action_Menu.unitypackage",
@@ -202,7 +202,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "Full Mochies Screen FX",
             "Url": "https://cdn.discordapp.com/attachments/853204392064581633/978016340629663874/Full_Mochies_Screen_FX_v3.0.unitypackage",
@@ -212,7 +212,7 @@
         },
         {
             "Order": 2,
-            "Group": "",
+            "Group": "список для сортировки",
             "NeedToDownload": true,
             "Name": "fur shaders",
             "Url": "https://cdn.discordapp.com/attachments/853204392064581633/970365464846942228/fur_shaders_v1_1.unitypackage",

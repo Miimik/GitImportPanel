@@ -219,6 +219,216 @@
             "SourceUrl": "",
             "Unitypackage": "fur_shaders_v1_1.unitypackage",
             "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "World Constraints",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "World Constraints.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "V5 06 GodHelpYouLocomotion By WetCat AlcTrap Gireison DjLukisLT INYO",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "V5-06-GodHelpYouLocomotion_By_WetCat_AlcTrap_Gireison_DjLukisLT_INYO.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "UTS2 ShaderOnly ",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "UTS2_ShaderOnly_v2.0.9_Release.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "UMotion Pro Animation Editor",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "UMotion_Pro_-_Animation_Editor_v1.28p03.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "QHierarchy",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "QHierarchy.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Poiyomi Master Shader",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "Poiyomi Master Shader V2.1.1.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Phys Bone Converter",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "PhysBoneConverter.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Muscle Animation",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "Muscle_Animation_Editor_V2.3.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "meshpreview",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "meshpreview-v1.0.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Looad Avatar and world  SDK3",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "Looad Avatar and world  SDK3.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Leviant ScreenSpace Ubershader",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "Leviant_ScreenSpace_Ubershader_v2.9.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Expressions Menu Hierarchy Editor",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "ExpressionsMenuHierarchyEditor_V1.0.0.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Esska AV3 Obfuscator",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "EsskaAV3Obfuscator.ver1.02.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Doppelganger",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "Doppelganger_texture_1.0.2.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Doppelganger Patreon Dope Shader",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "Doppelganger_Patreon_Dope_Shader_2.3.1.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Cubeds Shaders",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "CubedsShaders-v0.26-minimal.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Chair Avatar",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "Chair Avatar.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "Avatars Manager",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "Avatars_3.0_Manager_2.0.17.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "av3creator",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "av3creator-v1_3_4-basic.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "9755 SCRIPT Unity right click-zoom",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "9755 SCRIPT Unity right click-zoom fix.unitypackage",
+            "Description": ""
+        },
+        {
+            "Order": 2,
+            "Group": "sorting",
+            "NeedToDownload": false,
+            "Name": "2019 Animation Sound Key Panel",
+            "Url": "",
+            "SourceUrl": "",
+            "Unitypackage": "2019_Animation_Sound_Key_Panel.unitypackage",
+            "Description": ""
         }
     ]
 }

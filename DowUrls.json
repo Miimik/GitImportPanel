@@ -6,6 +6,7 @@
             "NeedToDownload": true,
             "Name": "Bit Animator",
             "Url": "https://cdn.discordapp.com/attachments/853200703345786880/906448159155310622/BitAnimator_v1.3.2_dev.unitypackage",
+            "SourceUrl": "",
             "Unitypackage": "BitAnimator_v1.3.2_dev.unitypackage",
             "Description": "BitAnimator description"
         },
@@ -15,6 +16,7 @@
             "NeedToDownload": true,
             "Name": "GoLoco",
             "Url": "https://cdn.discordapp.com/attachments/855436418423586846/1030880307076935730/GoLoco.v.1.7.1.unitypackage",
+            "SourceUrl": "",
             "Unitypackage": "GoLoco.v.1.7.1.unitypackage",
             "Description": "GoLoco description"
         },
@@ -24,6 +26,7 @@
             "NeedToDownload": true,
             "Name": "UMotion_Pro",
             "Url": "https://cdn.discordapp.com/attachments/1097568801723273256/1097569793273512108/UMotion_Pro_-_Animation_Editor_v1.28p03.unitypackage",
+            "SourceUrl": "",
             "Unitypackage": "UMotion_Pro_-_Animation_Editor_v1.28p03.unitypackage",
             "Description": "UMotion_Pro description"
         },
@@ -33,6 +36,7 @@
             "NeedToDownload": true,
             "Name": "EsskaAV3Obfuscator",
             "Url": "https://github.com/Ess-Ka/EsskaAV3Obfuscator/releases/download/v2.0.2/com.esska.av3obfuscator-2.0.2.zip",
+            "SourceUrl": "https://github.com/Ess-Ka/EsskaAV3Obfuscator",
             "Unitypackage": "com.esska.av3obfuscator-2.0.2.zip",
             "Description": "EsskaAV3Obfuscator description"
         },
@@ -42,6 +46,7 @@
             "NeedToDownload": true,
             "Name": "lilToon",
             "Url": "https://github.com/lilxyzw/lilToon/releases/download/1.3.6/lilToon_1.3.6.unitypackage",
+            "SourceUrl": "https://github.com/lilxyzw/lilToon",
             "Unitypackage": "lilToon_1.3.6.unitypackage",
             "Description": "UMotion_Pro description"
         }
